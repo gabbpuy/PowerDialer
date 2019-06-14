@@ -1,3 +1,6 @@
+Build Status: [![Build Status](https://travis-ci.org/gabbpuy/PowerDialer.svg?branch=master)](https://travis-ci.org/gabbpuy/PowerDialer)
+
+
 This project uses a small FSM to identify abnormal conditions in the call flow.
 Since the dialer is essentially idempotent it can't really do anything except attempt 
 to adjust the current state of things.
